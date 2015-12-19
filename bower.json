@@ -5,7 +5,7 @@
     "artificial-life <proteus.protocol@gmail.com>"
   ],
   "description": "scripts for iris gui",
-  "main": "iris-polymer-importer",
+  "main": "iris-importer.html",
   "moduleType": [],
   "keywords": [
     "bluebird",
